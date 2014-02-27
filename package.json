@@ -1,0 +1,12 @@
+{
+  "name": "coal-graal",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "private": false,
+  "description": "The Coal Graal theme for Atom, converted from https://github.com/baskerville/Coal-Graal.tmTheme",
+  "repository": "https://github.com/atom/coal-graal",
+  "license": "GPL v3",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
